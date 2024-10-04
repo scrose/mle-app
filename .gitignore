@@ -39,6 +39,10 @@ bower_components
 build/
 build/Release
 
+# Misc files/folders
+.vscode/
+.DS_Store
+
 # Dependency directories
 node_modules/
 jspm_packages/
